@@ -20,7 +20,7 @@ function Header() {
     return (
         <HeaderContainer>
             <LogoDunder>
-                Dundler Miffin
+                Dundler Mifflin
             </LogoDunder>
             <NavBar />
         </HeaderContainer>
