@@ -33,12 +33,10 @@ margin: 0 auto;
 padding:10px 20px; 
 border: none; 
 border-radius: 5px;
-background-color: #007bff;
+background-color: #007cff;
 color: #fff;
 cursor: pointer;
 `
-
-
 function ImageText({images}){
     
         return(
@@ -54,5 +52,4 @@ function ImageText({images}){
 
     )
 }
-
 export default ImageText
