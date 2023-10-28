@@ -33,7 +33,7 @@ margin: 0 auto;
 padding:10px 20px; 
 border: none; 
 border-radius: 5px;
-background-color: #007cff;
+background-color: #006cff;
 color: #fff;
 cursor: pointer;
 `
