@@ -26,6 +26,8 @@ function NavBar() {
             <StyledLink to="/episodios">Episodios</StyledLink>
             <StyledLink to="/novidades">Novidades</StyledLink>
             <StyledLink to="/personagens">Personagens</StyledLink>
+            <StyledLink to="/contatos">Contato</StyledLink>
+
         </NavBarContainer>
     )
 }

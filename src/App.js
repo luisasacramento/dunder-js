@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Episodios from './pages/Episodios'
 import Novidades from './pages/Novidades'
 import Personagens from './pages/Personagens'
+import Contato from './pages/Contato'
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="/episodios" element={<Episodios />}/>
           <Route path="/novidades" element={<Novidades />}/>
           <Route path="/personagens" element={<Personagens />}/>
+          <Route path="/contatos" element={<Contato />}/>
         </Routes>
       </Router>
   );
